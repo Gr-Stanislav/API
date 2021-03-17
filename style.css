@@ -1,0 +1,26 @@
+h2 {
+    text-align: center;
+}
+
+input {
+    width: 40%;
+    height: 20px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    display: block;
+    margin: 20px auto;
+}
+
+.inform {
+    margin: 0 auto;
+    text-align: center;
+}
